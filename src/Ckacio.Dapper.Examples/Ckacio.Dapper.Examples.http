@@ -1,0 +1,6 @@
+@Ckacio.Dapper.Examples_HostAddress = http://localhost:5126
+
+GET {{Ckacio.Dapper.Examples_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
